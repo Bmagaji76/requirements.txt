@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+numpy
+pandas
+scikit-learn
+torch
+transformers
+SpeechRecognition
+gTTS
+pyttsx3
+deep-translator
+sqlalchemy
+psycopg2-binary
