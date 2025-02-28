@@ -5,7 +5,6 @@ pandas
 scikit-learn
 torch
 transformers
-SpeechRecognition
 gTTS
 pyttsx3
 deep-translator
